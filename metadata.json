@@ -1,0 +1,7 @@
+{
+  "name": "Guardia: Smart Helmet Enforcement System",
+  "description": "An AI-powered urban traffic safety platform that detects helmet violations via number plate recognition, automates fines, and manages a helmet fulfillment program for first-time offenders.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
